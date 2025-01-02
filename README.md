@@ -1,4 +1,4 @@
-## Hi there 👋 I'm William Portillo
+## Hi there 👋 I'm Will
 
 # 💫 About Me:
 I recently graduated with a bachelor's degree in Mathematics and Computer Science from the University of Houston. I'm passionate about problem-solving and coding and am currently seeking a software engineering role to apply my skills and grow professionally.
